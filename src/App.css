@@ -6,6 +6,7 @@ article {
   background: #313A48;
   border-radius: 10px;
   position: relative;
+  box-shadow: 30px 50px 80px rgba(0, 0, 0, 0.100202);
 }
 
 h1 {

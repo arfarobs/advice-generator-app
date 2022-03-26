@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/arfarobs/advice-generator-app](https://github.com/arfarobs/advice-generator-app)
-- Live Site URL: [https://boisterous-praline-975f5b.netlify.app/](https://boisterous-praline-975f5b.netlify.app/m)
+- Live Site URL: [https://boisterous-praline-975f5b.netlify.app/)
 - Frontend Mentor URL: [https://www.frontendmentor.io/solutions/advice-generator-react-html-css-api-mobile-first-js-BJzDMR9Gc](https://www.frontendmentor.io/solutions/advice-generator-react-html-css-api-mobile-first-js-BJzDMR9Gc)
 
 ## My process
